@@ -1,9 +1,0 @@
-# Create a new empty repo on GitHub
-
-cd roam-test-ride-repo
-git remote add origin https://github.com/<your-org>/<repo>.git
-git branch -M main
-git push -u origin main
-
-# Go to Settings > Pages > Source: Deploy from branch > main
-# Your page is live at https://<your-org>.github.io/<repo>/
