@@ -1,0 +1,7 @@
+cd /path/to/roam-test-ride-repo
+
+# Set up the remote (if not already done)
+git remote add origin https://github.com/adallan01/roam-test-ride-repo.git
+
+# Push the code
+git push -u origin main
